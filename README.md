@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I'm a passionate Laravel developer dedicated to cr
 
 - **GitHub:** [@IvanSabat](https://github.com/IvanSabat)
 - **LinkedIn:** [Sabotazh](https://www.linkedin.com/in/sabotazh/)
-- **Email:** [ivan.sabat@outlook.com](mailto:ivan.sabat@outlook.com)
 
 Feel free to reach out if you'd like to collaborate on a project or just discuss all things Laravel and tech!
 
